@@ -143,9 +143,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Sandbox projects where I'm looking at a problem in my own personal space, solve, and share my findings with a larger open source community.
     assignments:
       - title: Distribued Video Encoding
         link: "https://github.com/GoingOffRoading/Boilest-Scaling-Video-Encoder"
@@ -172,22 +170,22 @@ skills:
 
     toolset:
       - name: Product Strategy and Vision
-        level: 
+        level: 98
 
       - name: Cross-functional Team Collaboration & Problem Solving
-        level: 
+        level: 95
 
       - name: Roadmap Planning
-        level: 
+        level: 94
 
       - name: Stakeholder Management
-        level: 
+        level: 92
 
       - name: Agile & Scrum Methodologies
-        level: 
+        level: 90
 
       - name: Defining & Tracking OKRs
-        level: 
+        level: 88
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
