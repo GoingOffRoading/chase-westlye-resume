@@ -163,7 +163,7 @@ projects:
 
       - title: Gluster Contaienrzied 
         link: "https://github.com/GoingOffRoading/GlusterFS"
-        tagline: "Containerization of Gluster's scaling storage solution."
+        tagline: "Containerization of Red Hat's Gluster scaling storage solution."
 
 skills:
     title: Skills &amp; Proficiency
