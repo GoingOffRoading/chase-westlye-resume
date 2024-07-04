@@ -170,22 +170,82 @@ skills:
 
     toolset:
       - name: Product Strategy and Vision
-        level: 98
+        level: 100%
 
       - name: Cross-functional Team Collaboration & Problem Solving
-        level: 95
+        level: 95%
 
       - name: Roadmap Planning
-        level: 94
+        level: 90%
 
       - name: Stakeholder Management
-        level: 92
+        level: 90%
 
       - name: Agile & Scrum Methodologies
-        level: 90
+        level: 85%
 
       - name: Defining & Tracking OKRs
-        level: 88
+        level: 95%
+
+      - name: Product SME & Domain Expertise
+        level: 100%
+
+      - name: Cross-functional Team Collaboration & Problem Solving
+        level: 95%
+
+      - name: Resource Management
+        level: 85%
+
+      - name: Risk Management
+        level: 90%
+
+      - name: Regulatory & Compliance
+        level: 80%
+
+      - name: Python including Celery, MQTT, basic microservices,APIs
+        level: 35%
+
+      - name: Architecture
+        level: 80%
+
+      - name: Containerization, Container, Orchestration (Kubernetes)
+        level: 95%
+
+      - name: Database Management
+        level: 65%
+
+      - name: Azure
+        level: 45%
+
+      - name: Machine Vision
+        level: 30%
+
+      - name: Large Language Models, GitHub Copilot, ChatGPT 4o
+        level: 50%
+
+      - name: IOT and device firmware
+        level: 20%
+
+      - name: Git
+        level: 15%
+
+      - name: Data Driven Decisioning
+        level: 100%
+
+      - name: SQL (Trino, MySQL, Postgres, SQLite, Hive, Impala)
+        level: 75%
+
+      - name: Metrics Interpretation
+        level: 90%
+
+      - name: Data analysis
+        level: 75%
+
+      - name: Anomaly Detection
+        level: 60%
+
+      - name: General Statistics
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
