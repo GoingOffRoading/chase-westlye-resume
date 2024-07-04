@@ -64,7 +64,7 @@ education:
         details: 
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Lead Product Manager - Data, Modeling, Analytics
         time: Feburary 2022 - June 2024
@@ -83,62 +83,62 @@ experiences:
           - Mentored PM staff in developing or improving strategy, OKRs, PM SME expectations, and
           general agile methodologies.
 
-      - role: Sr Manager Product Manager
+      - role: Sr Manager Product Manager - Relevance
         time: August 2019 - January 2022
         company: Lowe's Inc - Kirkland, WA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Developed vision & multi-year roadmap to the ELT & leaders on maturing relevance in the customer
+            experience (with focus on ELT Big Rocks) through development of an in house PAAS offering, including
+            OKRs to track adoption and business impact.
+          - Created a central PAAS to drive that roadmap and provide solutions to customer facing teams.
+          - Lead cross-functional teams with market-analysis, opportunity identification, enablements of relevance
+            solutions. Tracked enabled solution OKRs.
+          - Lead data science and engineering modeling efforts. Complied with CCPA/GDPR legal requirements.
+          - Customer relevance/obsession SME
 
       - role: Sr Program Manager - PAAS Customer Solutions
-        time: 2012 - 2014
+        time: May 2016 - August 2019
         company: Maana - Bellevue, WA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - End to end owner of the PAAS customer lifecycle with responsibilities including partnering in pre-sales
+            engagements, leading customer workshops, leading service development, monitoring ML & NLP POCs,
+            POC productionalization, and ownership of related Azure resources.
+          - Lead or participated in successful customer engagements with organizations that include General Electric
+            (GE), American International Group (AIG), Chevron, Shell, Maersk, Saudi Aramco, and more.
+          - Customer & platform SME with reporting responsibilities to platform PM team, CFO, CTO, Founders
       - role: Product Delivery Manager
         time: December 2015 – April 2016
         company: Rich Relevance - Seattle, WA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Maintained and drove adoption of the custom merchandising algorithm platform (SAAS). Work included
+            lowering the SAAS barriers of entry by templatizing offerings, providing meaningful case studies, driving
+            workshops, documenting best practices, and more.
+          - Voice of the customer for the larger PMO org, including championing customer feature requests and
+            defect resolutions. Maintained defect backlog, and defect OKR impact reporting.
+          - PMO SME for the global consulting and sales staff, including the best practices of integrating the various
+            PAAS solutions, diagnostics, AB/MVT testing, as well as optimizing B2B and B2C integrations for specific
+            success metrics.
       - role: Sr Consultant - COE
         time: October 2014 - December 2015
         company: Rich Relevance - San Francisco, CA & Seattle, WA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Evangelized platform best practices to the global consulting staff.
+          - Ran customer AB tests with early adopters. Documented results as case studies for the latest SAAS
+            offerings.
+          - Lead consulting engagements with key customers.
+          - Supported pre-sales engagements.
       - role: Product Manager - Algorithmic Merchandising
         time: October 2014 - December 2015
         company: Build.com - Chico, CA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Responsible to identify opportunities across departments (sales, merchandising, customer service)
+            where algorithmic merchandising or algorithm improvements could drive improvements in business
+            OKRs.
+          - Partner with engineers from various business silos to implement POCs & AB Tests.
+          - Research and POC new solutions or improvements to existing solutions.
+          - Fulfill merchandising algorithm vendor obligations including case studies, early adoption of new features,
+            and co-marketing initiatives. This included being the main hall speaker on Personalization at the 2014
+            Shop.org Merchandising Summit.
 
 projects:
     title: Projects
