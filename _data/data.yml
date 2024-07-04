@@ -64,7 +64,18 @@ experiences:
         time: Feburary 2022 - June 2024
         company: Lowe's Inc - Kirkland, WA
         details: |
-          - Developed and managed a cntored PM st
+          - Developed and managed a centralized data repository supporting two multi-year strategic priorities for
+the Executive Leadership Team (ELT). Repository responsibilities included creating integrations, data
+validations & data certifications for enterprise wide ‘single source of truth’ consumption while adhering
+to strict accuracy and SLA targets. 
+          - Created alignments on OKRs + key metrics across leaders & departments. Made those OKRs + key
+metrics, plus relevant slices, available as scorecards & cadenced reporting. Worked with leaders to
+maintain alignments. 
+          - Democratized data, lead modeling, seeded POCs, and made certified data available to cross-functional
+teams to consume in pursuit of program OKR goals. Provided rigorous documentation capturing
+program data mechanics, relationships, nuance, and behavior.
+          - Mentored PM staff in developing or improving strategy, OKRs, PM SME expectations, and general agile
+methodologies.
 
       - role: Sr Manager Product Manager
         time: August 2019 - January 2022
@@ -91,7 +102,7 @@ experiences:
             - Bullet point
       - role: Product Delivery Manager
         time: December 2015 – April 2016
-        company: Rich Relevance - Bellevue, WA
+        company: Rich Relevance - Seattle, WA
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
