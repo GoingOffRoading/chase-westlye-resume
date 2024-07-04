@@ -1,7 +1,4 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
+---
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -73,7 +70,10 @@ experiences:
         time: Feburary 2022 - June 2024
         company: Lowe's Inc - Kirkland, WA
         details: |
-          - Developed and managed a centr
+          - Developed and managed a centralized data repository supporting two multi-year strategic priorities for
+the Executive Leadership Team (ELT). Repository responsibilities included creating integrations, data
+validations & data certifications for enterprise wide single source of truth consumption while adhering
+to strict accuracy and SLA targets. 
           - Created alignments on OKR
           - Democratized data, lead modeling, seeded 
           - Mentored PM staff i
@@ -144,23 +144,23 @@ projects:
     assignments:
       - title: Distribued Video Encoding
         link: "https://github.com/GoingOffRoading/Boilest-Scaling-Video-Encoder"
-        tagline: "Spagetti code being refactored, leveraging Celery & FFmpeg to encode video at scale"
+        tagline: "Spagetti code being refactored, leveraging Celery & FFmpeg to encode video at scale."
 
       - title: Anthem Tasmota to WLed Firmware Conversion
         link: "https://github.com/GoingOffRoading/Athom-Tasmota-7W-Color-Bulb-to-WLED"
-        tagline: "Documentation and firmware for converting cloudless smart bulbs to open source firmware"
+        tagline: "Documentation and firmware for converting cloudless smart bulbs to open source firmware."
 
       - title: Dell Server Rack Fan Modulation
         link: "https://github.com/GoingOffRoading/idrac6fan"
-        tagline: "Useful for quieting down in-office Dell rack servers"
+        tagline: "Useful for quieting down in-office Dell rack servers."
 
       - title: RabbitMQ w/ Management & MQTT
         link: "https://github.com/GoingOffRoading/RabbitMQ"
-        tagline: "Configured version of the RabbitMQ broker to include the management and MQTT broker plugins"
+        tagline: "Configured version of the RabbitMQ broker to include the management and MQTT broker plugins."
 
       - title: Gluster Contaienrzied 
         link: "https://github.com/GoingOffRoading/GlusterFS"
-        tagline: "Containerization of Gluster's scaling storage solution"
+        tagline: "Containerization of Gluster's scaling storage solution."
 
 skills:
     title: Skills &amp; Proficiency
