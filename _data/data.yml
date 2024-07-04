@@ -48,56 +48,35 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Accomplished Product Manager with a decade of tech experience. Expertise in leading cross-functional teams to create innovative solutions that align with customer needs and boost business growth.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: MS Organizational Management
+        university: California State University, Chico
+        time: 2004-2009
+        details: 
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lead Product Manager - Data, Modeling, Analytics
+        time: Feburary 2022 - June 2024
+        company: Lowe's Inc - Kirkland, WA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          - Developed and managed a centralized data repository supporting two multi-year strategic priorities for
+the Executive Leadership Team (ELT). Repository responsibilities included creating integrations, data
+validations & data certifications for enterprise wide ‘single source of truth’ consumption while adhering
+to strict accuracy and SLA targets.
+          - Created alignments on OKRs + key metrics across leaders & departments. Made those OKRs + key
+metrics, plus relevant slices, available as scorecards & cadenced reporting. Worked with leaders to
+maintain alignments.
+          - Democratized data, lead modeling, seeded POCs, and made certified data available to cross-functional
+teams to consume in pursuit of program OKR goals. Provided rigorous documentation capturing
+program data mechanics, relationships, nuance, and behavior.
+          - Mentored PM staff in developing or improving strategy, OKRs, PM SME expectations, and general agile
+methodologies.
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
