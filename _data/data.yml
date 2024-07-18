@@ -66,79 +66,92 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Lead Product Manager - Data, Modeling, Analytics
+      - role: Lead Product Manager - DACI Data, Modeling, Analytics
         time: Feburary 2022 - June 2024
         company: Lowe's Inc - Kirkland, WA
         details: |
-          - Developed and managed a centralized data repository supporting two multi-year strategic
-          priorities for the Executive Leadership Team (ELT). Repository responsibilities included
-          creating integrations, data validations & data certifications for enterprise wide ‘single
-          source of truth’ consumption while adhering to strict accuracy and SLA targets.
-          - Created alignments on OKRs + key metrics across leaders & departments. Made those OKRs +
-          key metrics, plus relevant slices, available as scorecards & cadenced reporting. Worked
-          with leaders to maintain alignments.
-          - Democratized data: lead modeling, seeded POCs, and made certified data available to
-          cross-functional teams to consume in pursuit of program OKR goals. Provided rigorous
-          documentation capturing program data mechanics, relationships, nuance, and behavior.
+          Developed and managed a centralized data repository, reporting, and endpoints to support 
+          two multi-yearstrategic priorities for the Executive Leadership Team (ELT). 
+          - Created & maintained alignments between leaders & ICs on ELT strategic initiative OKRs 
+          & key metrics.
+          - Collaborated with a variety of engineering and product teams to ensure key data availability.
+          - Lead eight SWEs and two analysts who consumed, validated, and certified the key data to create 
+          an HDFS consumption layer while hitting tight SLA & data accuracy targets. 
+          - Create & maintained reporting, application endpoints & extensive documentation for business,
+          engineering, and research consumption. Frequent triage spearhead.
+          - Lead modeling, seeded POCs, and influenced applications across teams in pursuit of program OKR goals.
           - Mentored PM staff in developing or improving strategy, OKRs, PM SME expectations, and
           general agile methodologies.
 
-      - role: Sr Manager Product Manager - Relevance
+      - role: Sr Manager Product Manager - Personalization
         time: August 2019 - January 2022
         company: Lowe's Inc - Kirkland, WA
         details: |
-          - Developed vision & multi-year roadmap to the ELT & leaders on maturing relevance in the customer
-            experience (with focus on ELT Big Rocks) through development of an in house PAAS offering, including
-            OKRs to track adoption and business impact.
-          - Created a central PAAS to drive that roadmap and provide solutions to customer facing teams.
-          - Lead cross-functional teams with market-analysis, opportunity identification, enablements of relevance
-            solutions. Tracked enabled solution OKRs.
+          Recruited into a blue-sky leadership role to determine and pursue how to close the gap between 
+          Lowe’s customer experience & best in class personalization offerings.
+          - Provided vision, OKRs & a multi-year roadmap to the ELT & leaders on maturing relevance in the
+          customer experience (with focus on ELT Big Rocks) through development of an in house PAAS offering.
+          - Lead eight SWEs, two PMs, and four DSs to create a central PAAS that drove the strategic roadmap 
+          and provide solutions to customer facing teams. Implemented team expectations, including growth mindset.
+          - Collaborated with engineering & product consuming teams on market-analysis, opportunity
+          identification, integration, AB Testing and ongoing monitoring (including key metrics).
           - Lead data science and engineering modeling efforts. Complied with CCPA/GDPR legal requirements.
-          - Customer relevance/obsession SME.
+          - Customer relevance/obsession SME & evangelist. 
 
       - role: Sr Program Manager - PAAS Customer Solutions
         time: May 2016 - August 2019
         company: Maana - Bellevue, WA
         details: |
-          - End to end owner of the PAAS customer lifecycle with responsibilities including partnering in pre-sales
-            engagements, leading customer workshops, leading service development, monitoring ML & NLP POCs,
-            POC productionalization, and ownership of related Azure resources.
-          - Lead or participated in successful customer engagements with organizations that include General Electric
-            (GE), American International Group (AIG), Chevron, Shell, Maersk, Saudi Aramco, and more.
+          Classic ‘whatever was needed’ startup role that drove or supported the lifecycle of customer engagements.
+          - Presented to select prospective clients on-site to aid in closing of engagement contracts
+          - Lead engagement opening workshops to define customer problem, project scope, deliverable(s)
+          - Lead or participated in successful customer engagements with organizations that include 
+          General Electric (GE), American International Group (AIG), Chevron, Shell, Maersk, Saudi Aramco, and more.
+          - Owned & managed the engagement Azure resources
+          - Partnered in hiring & training of FTE consultants, and contract SWEs & DSs. Directly or 
+          indirectly managed some staff through engagements.
           - Customer & platform SME with reporting responsibilities to platform PM team, CFO, CTO, Founders
       - role: Product Delivery Manager
         time: December 2015 – April 2016
         company: Rich Relevance - Seattle, WA
         details: |
-          - Maintained and drove adoption of the custom merchandising algorithm platform (SAAS). Work included
-            lowering the SAAS barriers of entry by templatizing offerings, providing meaningful case studies, driving
-            workshops, documenting best practices, and more.
-          - Voice of the customer for the larger PMO org, including championing customer feature requests and
-            defect resolutions. Maintained defect backlog, and defect OKR impact reporting.
-          - PMO SME for the global consulting and sales staff, including the best practices of integrating the various
-            PAAS solutions, diagnostics, AB/MVT testing, as well as optimizing B2B and B2C integrations for specific
-            success metrics.
-      - role: Sr Consultant - COE
+          A dual product/program management role that oversaw one of RichRelevance’s niche products, 
+          as well as delivery of new personalization features across RichRelevance’s suite of offerings.
+          - Maintained and drove adoption of the custom merchandising algorithm platform (SAAS). Work 
+          included lowering the barriers of entries to the SaaS product by templatizing offerings, 
+          providing meaningful case studies, drive pre-sales workshops, documenting best practices, and more.
+          - Acted as a strong voice for the customer by championing customer feature requests and defect
+          resolutions, pushing a prioritized list of PMO defects that affected cashflows, and 
+          partnering with technical writers to ensure that new PMO features had sufficient 
+          documentation for adoption.
+          - PMO SME resource for the global consulting and sales staff. Including the best practices 
+          of integration the various personalization PAAS solutions, diagnostics, AB/MVT testing as 
+          well optimizing B2B and B2C integrations for specific success metrics.
+
+      - role: SR CONSULTANT – CONSULTING CENTER OF EXCELLENCE
         time: October 2014 - December 2015
         company: Rich Relevance - San Francisco, CA & Seattle, WA
         details: |
+          A dual consultant/program management role that both engaged with clients and 
+          oversaw the implementation of best practices with the larger global consulting staff.
           - Evangelized platform best practices to the global consulting staff.
           - Ran customer AB tests with early adopters. Documented results as case studies for the latest SAAS
             offerings.
           - Lead consulting engagements with key customers.
           - Supported pre-sales engagements.
-      - role: Product Manager - Algorithmic Merchandising
+      - role: Product Manager - Personalization
         time: October 2014 - December 2015
         company: Build.com - Chico, CA
         details: |
+          An exploratory product role to see how personalization technology solutions could drive sales or 
+          reduce operating costs.
           - Responsible to identify opportunities across departments (sales, merchandising, customer service)
-            where algorithmic merchandising or algorithm improvements could drive improvements in business
-            OKRs.
-          - Partner with engineers from various business silos to implement POCs & AB Tests.
-          - Research and POC new solutions or improvements to existing solutions.
-          - Fulfill merchandising algorithm vendor obligations including case studies, early adoption of new features,
-            and co-marketing initiatives. This included being the main hall speaker on Personalization at the 2014
-            Shop.org Merchandising Summit.
+          where algorithmic merchandising, or algorithm improvements could drive progress in business OKRs. 
+          - Research and POC new solutions or improvements to existing solutions, AB test to prove incremental
+          value, productionalize as needed.
+          - Fulfil personalization vendor obligations including case studies, early adoption of new features 
+          and comarketing initiatives, including being the main hall speaker on Personalization at the 2014 
+          Shop.org Merchandising Summit.
 
 projects:
     title: Projects
@@ -183,6 +196,12 @@ skills:
 
       - name: Agile & Scrum Methodologies
         level: 85%
+
+      - name: Hiring
+        level: 85%
+
+      - name: Growth Mindset
+        level: 95%
 
       - name: Defining & Tracking OKRs
         level: 95%
