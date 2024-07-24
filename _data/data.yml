@@ -224,6 +224,9 @@ skills:
       - name: Python including Celery, MQTT, basic microservices,APIs
         level: 35%
 
+      - name: Linux (Ubuntu)
+        level: 35%
+
       - name: Architecture
         level: 80%
 
