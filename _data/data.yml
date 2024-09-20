@@ -97,51 +97,32 @@ experiences:
         company: Maana - Bellevue, WA
         details: |
           Lead successful end-to-end customer engagements & solutions on the Maana Knowledge Graph PAAS.
-          · Participated or lead 12 PAAS solution engagements for customers in the Fortune 500 energy, finance, & industrial sectors.
+          - Participated or lead 12 PAAS solution engagements for customers in the Fortune 500 energy, finance, & industrial sectors.
           Converted 85% POCs into >$30M in platform sales.
-          · Lead 3 Data Scientists & 2 engineers to design & build 6 generic customer facing ML, NLP, MV, or UI Maana PaaS modules.
-          · Owned customer engagement & platform team Azure resources & budgeting (3 subscriptions, >30 resource groups).
+          - Lead 3 Data Scientists & 2 engineers to design & build 6 generic customer facing ML, NLP, MV, or UI Maana PaaS modules.
+          - Owned customer engagement & platform team Azure resources & budgeting (3 subscriptions, >30 resource groups).
       - role: Product Delivery Manager
         time: December 2015 – April 2016
         company: Rich Relevance - Seattle, WA
         details: |
-          A dual product/program management role that oversaw one of RichRelevance’s niche products, 
-          as well as delivery of new personalization features across RichRelevance’s suite of offerings.
-          - Maintained and drove adoption of the custom merchandising algorithm platform (SAAS). Work 
-          included lowering the barriers of entries to the SaaS product by templatizing offerings, 
-          providing meaningful case studies, drive pre-sales workshops, documenting best practices, and more.
-          - Acted as a strong voice for the customer by championing customer feature requests and defect
-          resolutions, pushing a prioritized list of PMO defects that affected cashflows, and 
-          partnering with technical writers to ensure that new PMO features had sufficient 
-          documentation for adoption.
-          - PMO SME resource for the global consulting and sales staff. Including the best practices 
-          of integration the various personalization PAAS solutions, diagnostics, AB/MVT testing as 
-          well optimizing B2B and B2C integrations for specific success metrics.
+          Responsible to shore up customer impacting tech debt in the RichRelevance Personalization SaaS PMO.
+          - Reduced outstanding customer reported issues by 30%, time-to-resolution by 50%, & client debookings by 10%.
+          - Successfully lobbied for 6 large customer prioritized features. Owned feature documentation, demos & marketing materials
 
       - role: SR CONSULTANT – CONSULTING CENTER OF EXCELLENCE
         time: October 2014 - December 2015
         company: Rich Relevance - San Francisco, CA & Seattle, WA
         details: |
-          A dual consultant/program management role that both engaged with clients and 
-          oversaw the implementation of best practices with the larger global consulting staff.
-          - Evangelized platform best practices to the global consulting staff.
-          - Ran customer AB tests with early adopters. Documented results as case studies for the latest SAAS
-            offerings.
-          - Lead consulting engagements with key customers.
-          - Supported pre-sales engagements.
+          Responsible for the success of the greater consulting staff & driving select customer engagements on the RR SAAS platform.
+          - Drove 50-100bps incremental sales improvements for >50 clients and evangelized best practices to responsible partners.
+          - Created client specific solutions for >15 clients including Harvard Business Review, Samsung NA, Costco, CDW, and Fanatics.
       - role: Product Manager - Personalization
         time: October 2014 - December 2015
         company: Build.com - Chico, CA
         details: |
-          An exploratory product role to see how personalization technology solutions could drive sales or 
-          reduce operating costs.
-          - Responsible to identify opportunities across departments (sales, merchandising, customer service)
-          where algorithmic merchandising, or algorithm improvements could drive progress in business OKRs. 
-          - Research and POC new solutions or improvements to existing solutions, AB test to prove incremental
-          value, productionalize as needed.
-          - Fulfil personalization vendor obligations including case studies, early adoption of new features 
-          and comarketing initiatives, including being the main hall speaker on Personalization at the 2014 
-          Shop.org Merchandising Summit.
+          1 to N product leader tasked to drive incremental sales through experimentation of e-commerce personalization solutions.
+          - Collaborated with an engineer to build innovative solutions that resulted in >$25M in incremental sales.
+          - Managed vendor co-marketing obligations including speaking at the 2014 Shop.org Merchandising Summit.
 
 projects:
     title: Projects
