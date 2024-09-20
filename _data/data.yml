@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Accomplished Product Manager with a decade of tech experience. Expertise in leading cross-functional teams to create innovative solutions that align with customer needs and boost business growth.
+      Innovative technical product leader with 10+ years of experience leveraging data, analytics & customer obsession to navigate ambiguous & difficult problem spaces, hands-on program management, cross-functional collaboration & KPI growth.
 education:
     title: Education
     info:
@@ -70,47 +70,37 @@ experiences:
         time: Feburary 2022 - June 2024
         company: Lowe's Inc - Kirkland, WA
         details: |
-          Developed and managed a centralized data repository, reporting, and endpoints to support 
-          two multi-yearstrategic priorities for the Executive Leadership Team (ELT). 
-          - Created & maintained alignments between leaders & ICs on ELT strategic initiative OKRs 
-          & key metrics.
-          - Collaborated with a variety of engineering and product teams to ensure key data availability.
-          - Lead eight SWEs and two analysts who consumed, validated, and certified the key data to create 
-          an HDFS consumption layer while hitting tight SLA & data accuracy targets. 
-          - Create & maintained reporting, application endpoints & extensive documentation for business,
-          engineering, and research consumption. Frequent triage spearhead.
-          - Lead modeling, seeded POCs, and influenced applications across teams in pursuit of program OKR goals.
-          - Mentored PM staff in developing or improving strategy, OKRs, PM SME expectations, and
-          general agile methodologies.
+          0 to 1 IC PM with indirect reports enabling and accelerating incremental sales through the creation of a 1st party data platform
+          & SME services for two high-visibility Executive Leadership Team (ELT) strategic initiatives.
+          - Seeded >40 partner team applications & models enabling >$200M in incremental sales & shrank time-to-market by >50%.
+          - Enabled daily optimizations of 3 OKRs & 100s of KPIs to >20 business & technical leaders impacting >200k associates.
+          - Collaborated with 6 engineers to build an HDFS data platform + dozens of complex ETL Airflow pipelines that tracked 
+          and tied billions in sales & program activity to millions of customers while maintaining data integrity, SLA, & accuracy targets.
+          - Collaborated with 11 analysts to provide analytics for leaders, cadenced reporting, as well as associate BI solutions.
+          - Maintained regulatory (CCPA, GDPR, PCI) and security (TLS, RBAC, firewalls, 2FA, encryption, policy, secrets) compliance.
+          - Recipient of numerous recognitions and accolades for taking action & showing courage in high stress situations.
 
       - role: Sr Manager Product Manager - Personalization
         time: August 2019 - January 2022
         company: Lowe's Inc - Kirkland, WA
         details: |
-          Recruited into a blue-sky leadership role to determine and pursue how to close the gap between 
-          Lowe’s customer experience & best in class personalization offerings.
-          - Provided vision, OKRs & a multi-year roadmap to the ELT & leaders on maturing relevance in the
-          customer experience (with focus on ELT Big Rocks) through development of an in house PAAS offering.
-          - Lead eight SWEs, two PMs, and four DSs to create a central PAAS that drove the strategic roadmap 
-          and provide solutions to customer facing teams. Implemented team expectations, including growth mindset.
-          - Collaborated with engineering & product consuming teams on market-analysis, opportunity
-          identification, integration, AB Testing and ongoing monitoring (including key metrics).
-          - Lead data science and engineering modeling efforts. Complied with CCPA/GDPR legal requirements.
-          - Customer relevance/obsession SME & evangelist. 
+          0 to 1 management role creating the omnichannel personalization strategy, team, cloud-based platform, data, models, 
+          and integrations to drive & enable incremental sales & reduced costs through transformative 1st party solutions.
+          - Exceeded aggressive KPIs driving $182m in incremental sales & >$10 million in cost savings while remaining under budget.
+          - Provided vision, best practices, & integrations to CIO and below leaders enabling >$50M in partner incremental sales.
+          - Hired and directly managed a team of 8 software engineers, 2 product managers, and 4 data scientists to build a Cassandra,
+          Neo4J Graph, microservice, & machine learning platform in GCP to enable analytics & solutions.
+          - Created organizational transformational change on team composition & importance of 1st party data.
 
       - role: Sr Program Manager - PAAS Customer Solutions
         time: May 2016 - August 2019
         company: Maana - Bellevue, WA
         details: |
-          Classic ‘whatever was needed’ startup role that drove or supported the lifecycle of customer engagements.
-          - Presented to select prospective clients on-site to aid in closing of engagement contracts
-          - Lead engagement opening workshops to define customer problem, project scope, deliverable(s)
-          - Lead or participated in successful customer engagements with organizations that include 
-          General Electric (GE), American International Group (AIG), Chevron, Shell, Maersk, Saudi Aramco, and more.
-          - Owned & managed the engagement Azure resources
-          - Partnered in hiring & training of FTE consultants, and contract SWEs & DSs. Directly or 
-          indirectly managed some staff through engagements.
-          - Customer & platform SME with reporting responsibilities to platform PM team, CFO, CTO, Founders
+          Lead successful end-to-end customer engagements & solutions on the Maana Knowledge Graph PAAS.
+          · Participated or lead 12 PAAS solution engagements for customers in the Fortune 500 energy, finance, & industrial sectors.
+          Converted 85% POCs into >$30M in platform sales.
+          · Lead 3 Data Scientists & 2 engineers to design & build 6 generic customer facing ML, NLP, MV, or UI Maana PaaS modules.
+          · Owned customer engagement & platform team Azure resources & budgeting (3 subscriptions, >30 resource groups).
       - role: Product Delivery Manager
         time: December 2015 – April 2016
         company: Rich Relevance - Seattle, WA
