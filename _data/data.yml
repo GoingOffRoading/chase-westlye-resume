@@ -58,7 +58,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MS Organizational Management
+      - degree: BS Organizational Management
         university: California State University, Chico
         time: 2004-2009
         details: 
@@ -75,6 +75,7 @@ experiences:
           - Owner of the data science portfolio, including reporting, artifacting, governance compliance, privacy & security reviews
           - Lead POCs in the areas of forecasting, fraud detection, & sustainability
           - Review approach, model & feature engineering efforts with data science staff
+
 
       - role: Lead Product Manager - DACI Data, Modeling, Analytics
         time: February 2022 - June 2024
@@ -95,30 +96,33 @@ experiences:
         time: August 2019 - January 2022
         company: Lowe's Inc - Kirkland, WA
         details: |
-          0 to 1 management role creating the omnichannel personalization strategy, team, cloud-based platform, data, models, 
-          and integrations to drive & enable incremental sales & reduced costs through transformative 1st party solutions.
-          - Exceeded aggressive KPIs driving $182m in incremental sales & >$10 million in cost savings while remaining under budget.
-          - Provided vision, best practices, & integrations to CIO and below leaders enabling >$50M in partner incremental sales.
-          - Hired and directly managed a team of 8 software engineers, 2 product managers, and 4 data scientists to build a Cassandra,
-          Neo4J Graph, microservice, & machine learning platform in GCP to enable analytics & solutions.
-          - Created organizational transformational change on team composition & importance of 1st party data.
+          0 to 1 Director level management role, reporting to the SVP of Digital & Martech, creating the omnichannel personalization 
+          strategy, team, cloud-based real-time platform, data, models, and integrations to drive & enable incremental sales & reduced costs through transformative 1st party solutions.
+          -	Exceeded aggressive KPIs driving $364m in incremental sales & >$10 million in cost savings while remaining under budget.
+          -	Provided vision, best practices, & integrations to CIO and below leaders enabling >$50M in partner incremental sales.
+          -	Hired and directly managed a team of 6 software engineers, 2 ML engineers, 2 product managers, and 4 data scientists to build a Kafka, Cassandra, Neo4J Graph, microservice, & machine learning platform in GCP to enable analytics & data science solutions.  
+          -	Created companywide organizational transformational change on team composition & importance of 1st party data.
+
 
       - role: Sr Program Manager - PAAS Customer Solutions
         time: May 2016 - August 2019
         company: Maana - Bellevue, WA
         details: |
           Lead successful end-to-end customer engagements & solutions on the Maana Knowledge Graph PAAS.
-          - Participated or lead 12 PAAS solution engagements for customers in the Fortune 500 energy, finance, & industrial sectors.
-          Converted 85% POCs into >$30M in platform sales.
-          - Lead 3 Data Scientists & 2 engineers to design & build 6 generic customer facing ML, NLP, MV, or UI Maana PaaS modules.
-          - Owned customer engagement & platform team Azure resources & budgeting (3 subscriptions, >30 resource groups).
+          -	Participated in or lead 12 PAAS solution engagements for customers in the Fortune 500 energy, finance, & industrial sectors.  Converted 85% POCs into >$30M in platform sales.
+          -	Lead 3 Data Scientists & 2 engineers to design & build 6 generic customer facing ML, NLP, MV, or UI Maana PaaS modules.
+          -	Owned customer engagement & platform team Azure resources & budgeting (3 subscriptions, >30 resource groups).
+
+
       - role: Product Delivery Manager
         time: December 2015 – April 2016
         company: Rich Relevance - Seattle, WA
         details: |
-          Responsible to shore up customer impacting tech debt in the RichRelevance Personalization SaaS PMO.
-          - Reduced outstanding customer reported issues by 30%, time-to-resolution by 50%, & client debookings by 10%.
-          - Successfully lobbied for 6 large customer prioritized features. Owned feature documentation, demos & marketing materials
+          Responsible to shore up customer impacting tech debt in the RichRelevance Personalization SaaS PMO as well as leading the custom recommendation algorithm platform.
+          -	Reduced outstanding customer reported issues by 30%, time-to-resolution by 50%, & client debookings by 10%.
+          -	Successfully lobbied for 6 large customer prioritized features.  Owned feature documentation, demos & marketing materials.
+          -	Deployed dozens of customized recommendation algorithms as well as decision tree based algorithm recommenders.
+
 
       - role: SR CONSULTANT – CONSULTING CENTER OF EXCELLENCE
         time: October 2014 - December 2015
@@ -127,6 +131,8 @@ experiences:
           Responsible for the success of the greater consulting staff & driving select customer engagements on the RR SAAS platform.
           - Drove 50-100bps incremental sales improvements for >50 clients and evangelized best practices to responsible partners.
           - Created client specific solutions for >15 clients including Harvard Business Review, Samsung NA, Costco, CDW, and Fanatics.
+
+
       - role: Product Manager - Personalization
         time: October 2014 - December 2015
         company: Build.com - Chico, CA
@@ -134,6 +140,7 @@ experiences:
           1 to N product leader tasked to drive incremental sales through experimentation of e-commerce personalization solutions.
           - Collaborated with an engineer to build innovative solutions that resulted in >$25M in incremental sales.
           - Managed vendor co-marketing obligations including speaking at the 2014 Shop.org Merchandising Summit.
+          - Hack-a-thon winner transforming in-house CRM from transaction centric to customer & LTV focus
 
 projects:
     title: Projects
