@@ -66,19 +66,30 @@ education:
 experiences:
     title: Experience
     info:
+      - role: Product Owner IV - Data Science
+        time: October 2024 - Current
+        company: Costco Wholesale Corp - Issaquah, WA
+        details: |
+          Senior product leader driving machine learning initiatives across Costco US & CA warehouse operations, merchandising & sustainability.
+          - Lead the portfolios first ELT aligned data science win netting Costco a >$740M 5-year margin impact
+          - Owner of the data science portfolio, including reporting, artifacting, governance compliance, privacy & security reviews
+          - Lead POCs in the areas of forecasting, fraud detection, & sustainability
+          - Review approach, model & feature engineering efforts with data science staff
+
       - role: Lead Product Manager - DACI Data, Modeling, Analytics
-        time: Feburary 2022 - June 2024
+        time: February 2022 - June 2024
         company: Lowe's Inc - Kirkland, WA
         details: |
-          0 to 1 IC PM with indirect reports enabling and accelerating incremental sales through the creation of a 1st party data platform
-          & SME services for two high-visibility Executive Leadership Team (ELT) strategic initiatives.
-          - Seeded >40 partner team applications & models enabling >$200M in incremental sales & shrank time-to-market by >50%.
-          - Enabled daily optimizations of 3 OKRs & 100s of KPIs to >20 business & technical leaders impacting >200k associates.
-          - Collaborated with 6 engineers to build an HDFS data platform + dozens of complex ETL Airflow pipelines that tracked 
-          and tied billions in sales & program activity to millions of customers while maintaining data integrity, SLA, & accuracy targets.
-          - Collaborated with 11 analysts to provide analytics for leaders, cadenced reporting, as well as associate BI solutions.
-          - Maintained regulatory (CCPA, GDPR, PCI) and security (TLS, RBAC, firewalls, 2FA, encryption, policy, secrets) compliance.
-          - Recipient of numerous recognitions and accolades for taking action & showing courage in high stress situations.
+          0 to 1 I Principal level Data Science & Analytics PM in Lowe’s Data Science & Computational Intelligence (DACI) org with 
+          indirect reports.  Role was to enable and accelerate incremental sales through the creation of a 1st party data platform, 
+          services, models & SME consolation for two high-visibility Executive Leadership Team (ELT) top 10 strategic initiatives.
+          -	Seeded >40 partner team applications & data science models enabling >$200M in incremental sales & shrank time-to-market by >50%.
+          -	Enabled daily optimizations of 3 OKRs & 100s of KPIs to >20 business & technical leaders impacting >200k associates.
+          -	Collaborated with 6 engineers to build an HDFS data platform + dozens of complex ETL Airflow pipelines that tracked and tied billions in sales & program activity to millions of customers while maintaining data integrity, SLA, & accuracy targets.
+          -	Collaborated with 11 analysts to provide ELT with ad hoc analytics as well as metrics & insights for quarterly earnings and investor relations calls.  
+          -	Maintained regulatory (CCPA, GDPR, PCI) and security (TLS, RBAC, firewalls, 2FA, encryption, policy, secrets) compliance.
+          -	Recipient of numerous recognitions and accolades for taking action & showing courage in high stress situations.
+
 
       - role: Sr Manager Product Manager - Personalization
         time: August 2019 - January 2022
